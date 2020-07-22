@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1014448697540",
+    "firebase_url": "https://chatdoc-ddbd1.firebaseio.com",
+    "project_id": "chatdoc-ddbd1",
+    "storage_bucket": "chatdoc-ddbd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014448697540:android:547f41f9c272de04f3d991",
+        "android_client_info": {
+          "package_name": "com.example.ChatDoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014448697540-lafv62ekerjaa2gueievpiv7v7n4oson.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj2PF4wpQtRDNNtegAaC4gXKCV3MTAqOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014448697540-lafv62ekerjaa2gueievpiv7v7n4oson.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
